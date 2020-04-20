@@ -1,0 +1,6 @@
+C:\Users\sgarrec\Source\Repos\ENI-RCDA025B-2019-2020\TPModule5-2-BO\bin\Debug\BO.dll
+C:\Users\sgarrec\Source\Repos\ENI-RCDA025B-2019-2020\TPModule5-2-BO\bin\Debug\BO.pdb
+C:\Users\sgarrec\Source\Repos\ENI-RCDA025B-2019-2020\TPModule5-2-BO\obj\Debug\TPModule5-2-BO.csprojAssemblyReference.cache
+C:\Users\sgarrec\Source\Repos\ENI-RCDA025B-2019-2020\TPModule5-2-BO\obj\Debug\TPModule5-2-BO.csproj.CoreCompileInputs.cache
+C:\Users\sgarrec\Source\Repos\ENI-RCDA025B-2019-2020\TPModule5-2-BO\obj\Debug\BO.dll
+C:\Users\sgarrec\Source\Repos\ENI-RCDA025B-2019-2020\TPModule5-2-BO\obj\Debug\BO.pdb
